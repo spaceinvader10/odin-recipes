@@ -1,1 +1,1 @@
-This is a simple recipe list. 
+Basic HTML/CSS site that provides three healthy recipes.

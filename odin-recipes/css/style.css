@@ -1,11 +1,21 @@
 body {
     background-color: lightblue;
-    border-color: rgb(203, 209, 23);
     font-size: large;
     text-align: center;
     border: 3em;
 }
 
-h1{
+h1, h2, ol{
     font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    display:flex;
+    justify-content: center;
+}
+
+img{
+    max-width: 30%;
+    min-width: 600px;
+    height: auto;
 }
